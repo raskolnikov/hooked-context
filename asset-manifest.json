@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hooked-context/static/css/main.fd69f45d.chunk.css",
+    "main.js": "/hooked-context/static/js/main.21ce2890.chunk.js",
+    "main.js.map": "/hooked-context/static/js/main.21ce2890.chunk.js.map",
+    "runtime-main.js": "/hooked-context/static/js/runtime-main.e90bcfa1.js",
+    "runtime-main.js.map": "/hooked-context/static/js/runtime-main.e90bcfa1.js.map",
+    "static/js/2.2df6e2f3.chunk.js": "/hooked-context/static/js/2.2df6e2f3.chunk.js",
+    "static/js/2.2df6e2f3.chunk.js.map": "/hooked-context/static/js/2.2df6e2f3.chunk.js.map",
+    "index.html": "/hooked-context/index.html",
+    "precache-manifest.be4ef7116748ad46a9fb59c68782ea36.js": "/hooked-context/precache-manifest.be4ef7116748ad46a9fb59c68782ea36.js",
+    "service-worker.js": "/hooked-context/service-worker.js",
+    "static/css/main.fd69f45d.chunk.css.map": "/hooked-context/static/css/main.fd69f45d.chunk.css.map",
+    "static/js/2.2df6e2f3.chunk.js.LICENSE.txt": "/hooked-context/static/js/2.2df6e2f3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hooked-context/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90bcfa1.js",
+    "static/js/2.2df6e2f3.chunk.js",
+    "static/css/main.fd69f45d.chunk.css",
+    "static/js/main.21ce2890.chunk.js"
+  ]
+}
